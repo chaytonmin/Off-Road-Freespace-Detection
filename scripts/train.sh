@@ -1,0 +1,1 @@
+python3 train.py --dataroot '/workspace/data' --dataset ORFD --name ORFD --use_sne --batch_size 8  --gpu_ids 0,1,2,3
