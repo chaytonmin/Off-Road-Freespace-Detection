@@ -5,13 +5,13 @@
 Freespace detection is very important for carrying out trajectory planning and decision-making in autonomous navigation. A great deal of research has demonstrated that freespace detection can be solved with deep learning methods. However, these efforts were focused in the urban road environments and few deep learning-based methods were specifically designed for off-road freespace detection due to the lack of off-road benchmarks. In this paper, we present the ORFD dataset, which to our knowledge is the first off-road freespace detection dataset. The dataset was collected in different scenarios (woodland, farmland, grassland, and countryside), different weather conditions (sunny, rainy, foggy, and snowy) and different light conditions (day, evening and night), which totally contains 12,198 lidar and RGB image pairs with the traversable area, non-traversable area and unreachable area annotated in detail. We propose a novel network named OFF-Net, which unifies Transformer to aggregate local and global information, to meet the requirement of large receptive fields for freespace detection task. We also propose the cross-attention for dynamically fusing LiDAR and RGB image information for accurate off-road freespace detection. 
 
 <p align="center">
-<img src="doc/demo1.gif" width="100%"/>demo1
+<img src="doc/demo1.gif" width="100%"/>demo 1
 </p>
 <p align="center">
-<img src="doc/demo2.gif" width="100%"/>demo2
+<img src="doc/demo2.gif" width="100%"/>demo 2
 </p>
 <p align="center">
-<img src="doc/demo3.gif" width="100%"/>demo3
+<img src="doc/demo3.gif" width="100%"/>demo 3
 </p>
 <p align="center">
 <img src="doc/flowchart.png" width="50%"/>OFF-Net
