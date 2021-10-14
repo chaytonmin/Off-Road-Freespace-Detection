@@ -27,7 +27,7 @@ The pretrained models of our OFF-Net trained on ORFD dataset can be download [he
 
 ## Prepare data
 
-The proposed off-road freespace detection dataset ORFD can be found [here](https://pan.baidu.com/s/13lQD8qBmsdSfpOgW18fA-g) (code: kbpl). Extract and organize as follows:
+The proposed off-road freespace detection dataset ORFD can be found [here](https://pan.baidu.com/s/13lQD8qBmsdSfpOgW18fA-g). Extract and organize as follows:
 
 ```
 |-- datasets
