@@ -21,8 +21,6 @@ a novel network named OFF-Net, which unifies Transformer architecture to aggrega
 
 - pytorch 1.4+
 
-- other requirements: `pip install -r requirements.txt`
-
 ## Pretrained models
 
 The pretrained models of our OFF-Net trained on ORFD dataset can be download [here](https://drive.google.com/drive/folders/1lnm2M1HEkVs9W3-FSEX3ddE9GYz4rqCU). 
