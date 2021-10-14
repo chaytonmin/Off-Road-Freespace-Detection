@@ -13,9 +13,6 @@ Freespace detection is very important for carrying out trajectory planning and d
 <p align="center">
 <img src="doc/demo3.gif" width="100%"/>demo 3
 </p>
-<p align="center">
-<img src="doc/flowchart.png" width="50%"/>OFF-Net
-</p>
 
 
 ## Requirements
@@ -46,20 +43,8 @@ The proposed off-road freespace detection dataset ORFD can be found [here](https
  |  |  |  |-- sequence   |-- gt_image
  ......
  |  |  |-- validation
- |  |  |  |-- sequence   |-- calib
- |  |  |  |-- sequence   |-- sparse_depth
- |  |  |  |-- sequence   |-- dense_depth
- |  |  |  |-- sequence   |-- lidar_data
- |  |  |  |-- sequence   |-- image_data
- |  |  |  |-- sequence   |-- gt_image
  ......
  |  |  |-- testing
- |  |  |  |-- sequence   |-- calib
- |  |  |  |-- sequence   |-- sparse_depth
- |  |  |  |-- sequence   |-- dense_depth
- |  |  |  |-- sequence   |-- lidar_data
- |  |  |  |-- sequence   |-- image_data
- |  |  |  |-- sequence   |-- gt_image
  ......
 ```
 
