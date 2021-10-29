@@ -18,8 +18,9 @@ a novel network named OFF-Net, which unifies Transformer architecture to aggrega
 ## Requirements
 
 - python 3.6
-
-- pytorch 1.4+
+- pytorch 1.7
+- pip install mmcv, mmsegmentation
+- pip install mmcv-full==1.3.16 -f https://download.openmmlab.com/mmcv/dist/cu110/torch1.7.0/index.html
 
 ## Pretrained models
 
