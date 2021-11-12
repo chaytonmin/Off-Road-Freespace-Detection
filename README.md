@@ -62,6 +62,9 @@ bash ./scripts/train.sh
 ```
 bash ./scripts/test.sh
 ```
+##  License
+
+Our code and dataset are released under the Apache 2.0 license.
 
 ## Acknowledgement
 
