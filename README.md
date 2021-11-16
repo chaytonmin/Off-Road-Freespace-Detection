@@ -68,7 +68,7 @@ Our code and dataset are released under the Apache 2.0 license.
 
 ## Acknowledgement
 
-This repository is heavily based on [SNE-RoadSeg](https://github.com/hlwang1124/SNE-RoadSeg) [1], and  [SegFormer](https://github.com/NVlabs/SegFormer) [2].
+This repository is based on [SNE-RoadSeg](https://github.com/hlwang1124/SNE-RoadSeg) [1], and  [SegFormer](https://github.com/NVlabs/SegFormer) [2].
 
 ## References
 
