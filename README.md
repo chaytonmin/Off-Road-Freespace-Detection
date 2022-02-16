@@ -86,4 +86,4 @@ This repository is based on [SNE-RoadSeg](https://github.com/hlwang1124/SNE-Road
 
 [1] Fan, Rui, et al. "Sne-roadseg: Incorporating surface normal information into semantic segmentation for accurate freespace detection." *European Conference on Computer Vision*. Springer, Cham, 2020. 
 
-[2] Xie, Enze, et al. "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers." *arXiv preprint arXiv:2105.15203* (2021).
+[2] Xie, Enze, et al. "SegFormer: Simple and efficient design for semantic segmentation with transformers." Advances in Neural Information Processing Systems 34 (2021).
