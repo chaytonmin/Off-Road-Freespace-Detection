@@ -1,5 +1,14 @@
 # ORFD: A Dataset and Benchmark for Off-Road Freespace Detection
 
+Repository for the paper ["ORFD: A Dataset and Benchmark for Off-Road Freespace Detection"](xxx).
+```
+@article{ORFD:2022,
+  title={ORFD: A Dataset and Benchmark for Off-Road Freespace Detection},
+  author={M. Chen, J. Xu, L. Xiao, D. Zhao etal},
+  journal={International Conference on Robotics and Automation (ICRA)},
+  year={2022}
+}
+```
 
 ## Introduction
 Freespace detection is an essential component of autonomous driving technology and plays an important role in trajectory planning. In the last decade, deep learning based freespace detection methods have been proved feasible. However, these efforts were focused on urban road environments and few deep learning based methods were specifically designed for off-road freespace detection due to the lack of off-road dataset and benchmark. In this paper, we present the ORFD dataset, which, to our knowledge, is the first off-road freespace detection dataset. The dataset was collected in different scenes (woodland, farmland, grassland and countryside), ndifferent weather conditions (sunny, rainy, foggy and snowy) and different light conditions (bright light, daylight, twilight, darkness), which totally contains 12,198 LiDAR point cloud and RGB image pairs with the traversable area, non-traversable area and unreachable area annotated in detail. We propose
@@ -12,6 +21,8 @@ a novel network named OFF-Net, which unifies Transformer architecture to aggrega
 </p>
 <p align="center">
 <img src="doc/demo3.gif" width="100%"/>demo 3
+<p align="center">
+<img src="doc/flowchart.png" width="100%"/>flowchart
 </p>
 
 
@@ -35,11 +46,11 @@ The proposed off-road freespace detection dataset ORFD can be found [here](https
  |  |-- ORFD
  |  |  |-- training
  |  |  |  |-- sequence   |-- calib
- |  |  |  |-- sequence   |-- sparse_depth
- |  |  |  |-- sequence   |-- dense_depth
- |  |  |  |-- sequence   |-- lidar_data
- |  |  |  |-- sequence   |-- image_data
- |  |  |  |-- sequence   |-- gt_image
+ |  |  |                 |-- sparse_depth
+ |  |  |                 |-- dense_depth
+ |  |  |                 |-- lidar_data
+ |  |  |                 |-- image_data
+ |  |  |                 |-- gt_image
  ......
  |  |  |-- validation
  ......
