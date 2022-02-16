@@ -4,7 +4,7 @@ Repository for the paper ["ORFD: A Dataset and Benchmark for Off-Road Freespace 
 ```
 @article{ORFD:2022,
   title={ORFD: A Dataset and Benchmark for Off-Road Freespace Detection},
-  author={M. Chen, J. Xu, L. Xiao, D. Zhao etal},
+  author={Chen Min, Weizhong Jiang, Dawei Zhao∗, Jiaolong Xu, Liang Xiao, Yiming Nie and Bin Dai},
   journal={International Conference on Robotics and Automation (ICRA)},
   year={2022}
 }
