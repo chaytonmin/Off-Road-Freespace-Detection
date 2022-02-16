@@ -23,7 +23,7 @@ a novel network named OFF-Net, which unifies Transformer architecture to aggrega
 <img src="doc/demo3.gif" width="100%"/>demo 3
 </p>
 <p align="center">
-<img src="doc/flowchart.png" width="50%"/>flowchart
+<img src="doc/flowchart.png" width="50%"/>
 </p>
 
 
