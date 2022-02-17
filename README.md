@@ -1,14 +1,6 @@
 # ORFD: A Dataset and Benchmark for Off-Road Freespace Detection
 
-Repository for the paper ["ORFD: A Dataset and Benchmark for Off-Road Freespace Detection"](xxx).
-```
-@article{ORFD:2022,
-  title={ORFD: A Dataset and Benchmark for Off-Road Freespace Detection},
-  author={Chen Min, Weizhong Jiang, Dawei Zhao∗, Jiaolong Xu, Liang Xiao, Yiming Nie and Bin Dai},
-  journal={International Conference on Robotics and Automation (ICRA)},
-  year={2022}
-}
-```
+Repository for the ICRA 2022 paper ["ORFD: A Dataset and Benchmark for Off-Road Freespace Detection"](xxx).
 
 ## Introduction
 Freespace detection is an essential component of autonomous driving technology and plays an important role in trajectory planning. In the last decade, deep learning based freespace detection methods have been proved feasible. However, these efforts were focused on urban road environments and few deep learning based methods were specifically designed for off-road freespace detection due to the lack of off-road dataset and benchmark. In this paper, we present the ORFD dataset, which, to our knowledge, is the first off-road freespace detection dataset. The dataset was collected in different scenes (woodland, farmland, grassland and countryside), ndifferent weather conditions (sunny, rainy, foggy and snowy) and different light conditions (bright light, daylight, twilight, darkness), which totally contains 12,198 LiDAR point cloud and RGB image pairs with the traversable area, non-traversable area and unreachable area annotated in detail. We propose
