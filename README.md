@@ -32,7 +32,7 @@ The pretrained models of our OFF-Net trained on ORFD dataset can be download [he
 
 ## Prepare data
 
-The proposed off-road freespace detection dataset ORFD can be found [here](https://pan.baidu.com/s/1kWfo0xtcSquLM3wWepkJTw) (code:g8es, about 14GB). Extract and organize as follows:
+The proposed off-road freespace detection dataset ORFD can be found [here](https://pan.baidu.com/s/1DiHrrY2-FXab2EED5J5m4g) (code:g8es, about 30GB). Extract and organize as follows:
 
 ```
 |-- datasets
