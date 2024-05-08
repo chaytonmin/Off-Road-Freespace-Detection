@@ -50,7 +50,8 @@ The proposed off-road freespace detection dataset ORFD can be found [BaiduYun](h
  |  |  |-- testing
  ......
 ```
-The LiDAR coordinate system is x facing left, y facing forward, and z facing up
+The LiDAR coordinate system is x facing left, y facing forward, and z facing up.
+Generate depth map: python road_hesai40_process.py
 
 ## Usage
 
