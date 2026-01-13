@@ -2,6 +2,8 @@
 
 Repository for our ICRA 2022 paper ["ORFD: A Dataset and Benchmark for Off-Road Freespace Detection"](https://arxiv.org/abs/2206.09907).
 
+Email:mincheng@ict.ac.cn
+
 ## 📰 News
 
 * **[2025.12.29]**  Our new dataset [ORAD-3D](https://github.com/chaytonmin/ORAD-3D-Dataset-For-Off-Road-Autonomous-Driving) for off-road autonomous driving is publicly released.
